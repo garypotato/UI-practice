@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+# User Interface design practise
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Recently I noticed a job in `Indeed`, and this company is hiring a junior web developer. They are asking to sytle upt the job advertisement to show what you got. However, I got no luck to apply the job, because they closed the job recruitement 1 day after I saw it.  
+However, this is a really good experience for me to learn how to design `user interface`. I am happy to show what I've done.
 
-## Available Scripts
+## Adobe XD
+I used `Adobe XD` to draw down my idea. Some people will argue `sketch`, but they don't know I don't have mac-book. I will like to get one when I am employed  as a web developer:stuck_out_tongue_closed_eyes:.  
 
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## my outcome
+This is my outcome, I've done it by pure `scss` + `html`. 
+  
+![1](https://user-images.githubusercontent.com/72715709/136938843-a60cf9e1-c6a3-41af-957c-471bba6c528f.png)  
+![2](https://user-images.githubusercontent.com/72715709/136938846-75718758-a0b7-4741-944d-873674c2fd89.png)  
+![3](https://user-images.githubusercontent.com/72715709/136938853-6ebfe854-4f21-4d6f-a653-34a0816d3c0c.png)  
+  
+## Please check the gif:  
+![7](https://user-images.githubusercontent.com/72715709/136940436-bdebf45f-ed8d-4bff-98fe-536da8ccaa87.gif)
